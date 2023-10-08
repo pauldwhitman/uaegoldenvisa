@@ -6,7 +6,7 @@ Guide to getting the UAE Golden Visa
 # Process
 
 ## Part 1: Get GV nomination
-Each nominating organisation has its own GV nomination criteria. These criteria differ wildly so select the organisation with criteria that suits your circumstance.
+Each nominating organisation has its own GV nomination criteria. These criteria differ so select the organisation with criteria that suits your circumstance.
 
 Some organisations who provide nominations
 * Abu Dhabi Residents Office (ADRO). If you are an Abu Dhabi resident, this is likely the best for you.
