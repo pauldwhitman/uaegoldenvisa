@@ -14,6 +14,9 @@ Some organisations who provide nominations
 ## Part 2: Apply for GV
 The formal process name is `VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA`.
 
+### Who can do this?
+You can engage a PRO or submit an applicaiton yourself through the ICA Smart Services web portal.
+
 ### Process
 ![Process for applying for a GV](./images/process-gv.png)
 
@@ -22,17 +25,19 @@ The formal process name is `VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED P
 |-|-|-|-|-|
 |1|Request submitted|Initial state after you have submitted the form and paid fees. ICA will review your submission.|ICA|1-2 days|
 |2|Returned for modification|Your submission will be returned to you if ICA has found errors such as incorrect information or attachments.|You|Waiting on you|
-|3|Rejected|If you do not qualify for the GV or have had your application returned 3 times, it will be rejected. You will need to start the process and pay the fees again.|You|N/A|
-|4|Awaiting Visa/Residency Cancellation|Your submission is valid. You now need to cancel the visas of any dependents you have (if applicable) and then your own visa. Once you have terminated all visas, the submission will automatically progress to the _Submitted_ stage.|You|As long as it takes for you to cancel visas.|
-|5|Under processing|Your submission is being processed. After it is processed, the submission will automatically progress to the _Received_ stage.|ICA|5 minutes|
-|6|Received|Your submission has been received. The submission will automatically progress to the _Approved_ stage.|ICA|5 minutes|
-|7|Approved|Your Golden Visa has been issued. Congratulations!|ICA|N/A|
+|3|Rejected|If you do not qualify for the GV or have had your application returned 3 times, it will be rejected. You will need to create another submission and pay the fee again.|You|N/A|
+|4|Re-submitted|ICA will review your submission again.|ICA|1-2 days|
+|5|Awaiting Visa/Residency Cancellation|Your submission is valid. You now need to cancel the visas of any dependents you have (if applicable) and then your own visa. Once you have terminated all visas, the submission will automatically progress to the _Submitted_ stage.|You|As long as it takes for you to cancel visas.|
+|6|Under processing|Your submission is being processed. After it is processed, the submission will automatically progress to the _Received_ stage.|ICA|5 minutes|
+|7|Received|Your submission has been received. The submission will automatically progress to the _Approved_ stage.|ICA|5 minutes|
+|8|Approved|Your Golden Visa has been issued. Congratulations!|ICA|N/A|
 
 ### Input
+Most information in the Personal Information section will be pre-filled.
 |#|Form Section|Information|Comment|
 |-|-|-|-|
 |1|Identity Information For Sponsored (Service Beneficiary)|Unified Number|Your unified number is a 9 digit number.|
-|2|Identity Information For Sponsored (Service Beneficiary)|File Number|In the form 123/1234/12/12345|
+|2|Identity Information For Sponsored (Service Beneficiary)|File Number|A 14 digit number in the form 123/1234/12/12345|
 |3|Personal Information|Full name (English)||
 |4|Personal Information|Full name (Arabic)||
 |5|Personal Information|Current Nationality||
@@ -51,7 +56,7 @@ The formal process name is `VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED P
 |18|Personal Information|Visit Reason||
 |19|Personal Information|Reason for request||
 |20|Establishment Details|Establishment Department|The department that provided you a nomination. For example, this will be FEDERAL AUTHORITY FOR IDENTITY & CITIZENSHIP\ABU DHABI|
-|21|Establishment Details|Establishment Number|The establishment card number of your company|
+|21|Establishment Details|Establishment Number|The establishment card number of your company.|
 |22|Passport Information|Passport Type|Likely ORDINARY PASSPORT||
 |23|Passport Information|Passport No||
 |24|Passport Information|Passport Issue Place (English)||
