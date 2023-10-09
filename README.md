@@ -15,14 +15,14 @@ Guide to getting the UAE Golden Visa
 
 # Process
 
-A summary of the process
+A summary of the stages.
 1. Get GV nomination
 2. Apply for GV
 3. Change status
 4. Issue residence
 5. Residency and Identity Issuance
 
-## Part 1: Get GV nomination
+## Stage 1: Get GV nomination
 You need a GV nomination letter. There are multiple organisations that are authorised to give a GV nomination including
 
 * [Abu Dhabi Residents Office (ADRO)](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa). If you are an Abu Dhabi resident who earns more than AED 30,000, this is likely your best route.
@@ -48,7 +48,7 @@ You will also receive an email from the FAIC.
 
 ![Confirmation of nomination from FAIC](./images/ica-email-1.png)
 
-## Part 2: Apply for GV
+## Stage 2: Apply for GV
 Once you have a GV nomination, you can proceed to apply for a GV.
 
 ### Formal ICA process name
@@ -146,30 +146,47 @@ Most information in the Personal Information section will be pre-filled.
 
 You may incur charges for Arabic translation and degree attestation costs.
 
-## Part 3: Change status
+## Stage 3: Change status
+
+### Prerequisites
+
+Stage 2 must complete.
 
 ### Formal ICA process name
 `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`.
 
 ### Purpose
 
+At this point, you do not have an active visa. You need to do the logical equivalent of exit the country, and re-enter using your Entry Permit.
+
 ### Input
 
 ### Output
 
 ### Cost
+| Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
+| ---------------- | ------------ | ------------------- | -------------- |
+| REQUEST FEES    | 500.00       | 0.00                |                |
+| E-SERVICE FEES | 28.00 | 1.40 ||
+| ICP FEES | 122.00 | 0.00 ||
+| ELECTRONIC PAYMENT FEES | 8.47 | 0.42 ||
+| Total ||| 658.47 AED |
 
 
 
-## Part 4: Issue Residence
+
+## Stage 4: Issue Residence
 
 ### Formal ICA process name
 `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`.
 
-## Part 5: Residency and Identity Issuance
 
-### Formal ICA process name
-`RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+
+### Prerequisites
+
+A medical fitness certificate issued by EHS.
+
+
 
 ### Purpose
 Get an Emirates ID.
@@ -177,6 +194,8 @@ Get an Emirates ID.
 ### Input
 
 ### Attachments required
+You do not need to upload your medical certificate.
+
 |#|Attachment|Description|
 |-|-|-|
 |1|A COPY OF THE PASSPORT OF THE BENEFICIARY OF THE SERVICE|Your passport. Ensure your passport has not expired.|
@@ -186,7 +205,10 @@ Get an Emirates ID.
 
 
 ### Output
-* Emirates ID
+|#|Output|Description|
+|-|-|-|
+|1|PDF reeceipt|This contains your PRAN number.|
+|2|Emirates ID copy|A PDF containing the front and back of your Emirates ID. Ensure your EID has not expired.|
 
 ### Cost
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
@@ -195,3 +217,17 @@ Get an Emirates ID.
 | ELECTRONIC PAYMENT FEES | 14.30 | 0.72 ||
 | Smart Services Fee | 100.00 | 1.40 ||
 | Total ||| 1,115.02 AED |
+
+
+## Stage 5: Residency and Identity Issuance
+
+### Prerequisites
+
+A medical fitness certificate issued by EHS.
+
+# Input
+
+# Attachments required
+
+### Formal ICA process name
+`RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
