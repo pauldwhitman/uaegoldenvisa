@@ -1,17 +1,30 @@
 # uaegoldenvisa
 Guide to getting the UAE Golden Visa
 
-# Test
+# Terminology
+|Terminology|Description|
+|-|-|
+|Attested degree|A degree of the rank Bachelor or above that has received 3 stamps.|
+|ADRO|Abu Dhabi Residents Office|
+|EID|Emirates ID|
+|FAIC|Federal Authority for Identity, Citizenship, Customs & Port Security.|
+|GV|Golden Visa|
+|ICP|Another name for FAIC.|
 
 # Process
 
 ## Part 1: Get GV nomination
-Each nominating organisation has its own GV nomination criteria. These criteria differ so select the organisation with criteria that suits your circumstance.
+You need a GV nomination letter. There are multiple organisations that are authorised to give a GV nomination including
 
-Some organisations who provide nominations
-* Abu Dhabi Residents Office (ADRO). If you are an Abu Dhabi resident, this is likely the best for you.
+* [Abu Dhabi Residents Office (ADRO)](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa). If you are an Abu Dhabi resident, this is likely the best for you. Use the TAMM Web Portal to apply.
+* [UAE Ministry of Culture & Youth](https://mcy.gov.ae/en/goldenvisa/)
+* and many more
+
+Each organisation has its own nomination criteria, so select the organisation with criteria that suits your circumstance.
 
 ## Part 2: Apply for GV
+Once you have a GV nomination, you can proceed to apply for a GV with the 
+
 The formal process name is `VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA`.
 
 ### Who can do this?
