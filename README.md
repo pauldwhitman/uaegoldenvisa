@@ -10,17 +10,38 @@ Guide to getting the UAE Golden Visa
 |FAIC|Federal Authority for Identity, Citizenship, Customs & Port Security.|
 |GV|Golden Visa|
 |ICP|Another name for FAIC.|
+|UAEICP|Another name for the FAIC.|
+
 
 # Process
 
 ## Part 1: Get GV nomination
 You need a GV nomination letter. There are multiple organisations that are authorised to give a GV nomination including
 
-* [Abu Dhabi Residents Office (ADRO)](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa). If you are an Abu Dhabi resident, this is likely the best for you. Use the TAMM Web Portal to apply.
+* [Abu Dhabi Residents Office (ADRO)](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa). If you are an Abu Dhabi resident who earns more than AED 30,000, this is likely your best route.
 * [UAE Ministry of Culture & Youth](https://mcy.gov.ae/en/goldenvisa/)
+* [Emirates Council of Scientists](https://science.gov.ae/)
 * and many more
 
 Each organisation has its own nomination criteria, so select the organisation with criteria that suits your circumstance.
+
+### ADRO Process
+
+Applying through the ADRO can be done through the [TAMM](https://www.tamm.abudhabi/en/aspects-of-life/visaemiratesid/entryresidencypermits/VisaRequirements/RequestforGoldenVisaNomination) web portal.
+
+When you have applied, you will receive a confirmation email.
+
+![ADRO GV nomination requested](./images/tamm-submission.png)
+
+ADRO will typically take 2-3 days to review your application. If successful, you will receive an approval email.
+
+![ADRO GV nomination approval](./images/tamm-approved.png)
+
+You will also receive an email from the FAIC.
+
+![Confirmation of nomination from FAIC](./image/ica-email-1.png)
+
+
 
 ## Part 2: Apply for GV
 Once you have a GV nomination, you can proceed to apply for a GV with the 
