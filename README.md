@@ -15,6 +15,13 @@ Guide to getting the UAE Golden Visa
 
 # Process
 
+A summary of the process
+1. Get GV nomination
+2. Apply for GV
+3. Change status
+4. Issue residence
+5. Residency and Identity Issuance
+
 ## Part 1: Get GV nomination
 You need a GV nomination letter. There are multiple organisations that are authorised to give a GV nomination including
 
@@ -39,14 +46,13 @@ ADRO will typically take 2-3 days to review your application. If successful, you
 
 You will also receive an email from the FAIC.
 
-![Confirmation of nomination from FAIC](./image/ica-email-1.png)
-
-
+![Confirmation of nomination from FAIC](./images/ica-email-1.png)
 
 ## Part 2: Apply for GV
-Once you have a GV nomination, you can proceed to apply for a GV with the 
+Once you have a GV nomination, you can proceed to apply for a GV.
 
-The formal process name is `VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA`.
+### Formal ICA process name
+`VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA`.
 
 ### Who can do this?
 You can engage a PRO or submit an applicaiton yourself through the ICA Smart Services web portal.
@@ -114,7 +120,6 @@ Most information in the Personal Information section will be pre-filled.
 
 
 ### Attachments required
-You'll need to attach the following.
 |#|Attachment|Description|
 |-|-|-|
 |1|BANK STATEMENT|A single PDF containing 6 months of bank statements showing monthly deposits greater than AED 30,000.|
@@ -143,6 +148,9 @@ You may incur charges for Arabic translation and degree attestation costs.
 
 ## Part 3: Change status
 
+### Formal ICA process name
+`RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`.
+
 ### Purpose
 
 ### Input
@@ -155,4 +163,35 @@ You may incur charges for Arabic translation and degree attestation costs.
 
 ## Part 4: Issue Residence
 
-## Part 5: Issue Emirates ID
+### Formal ICA process name
+`RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`.
+
+## Part 5: Residency and Identity Issuance
+
+### Formal ICA process name
+`RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+
+### Purpose
+Get an Emirates ID.
+
+### Input
+
+### Attachments required
+|#|Attachment|Description|
+|-|-|-|
+|1|A COPY OF THE PASSPORT OF THE BENEFICIARY OF THE SERVICE|Your passport. Ensure your passport has not expired.|
+|2|Emirates ID copy|A PDF containing the front and back of your Emirates ID. Ensure your EID has not expired.|
+|3|Colored Photo||
+|4|Entry Permit|A PDF of your Entry Permit|
+
+
+### Output
+* Emirates ID
+
+### Cost
+| Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
+| ---------------- | ------------ | ------------------- | -------------- |
+| CARD ISSUANCE    | 1,000.00       | 0.00                |                |
+| ELECTRONIC PAYMENT FEES | 14.30 | 0.72 ||
+| Smart Services Fee | 100.00 | 1.40 ||
+| Total ||| 1,115.02 AED |
