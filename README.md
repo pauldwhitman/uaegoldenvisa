@@ -1,5 +1,7 @@
-# uaegoldenvisa
-Guide to getting the UAE Golden Visa for people who are already residents of the UAE (any emirate).
+# Guide to getting the UAE Golden Visa (for residents).
+This guide explains how to get a Golden Visa (GV) for people who are already residents of the UAE (any emirate). It explains the various stages, what information to submit, and how to sponsor your family.
+
+[ToC]
 
 # Terminology
 
@@ -19,7 +21,7 @@ In this document, the acronyms FAIC and ICA will be used interchangably to refer
 # Process
 
 The statement _"I want a golden visa"_ is vague. This is actually 6 separate milestones which are as follows:
-1. **Get GV nomination.** You need to meet the criteria for a GV.
+1. [**Get GV nomination.**](#stage-1-get-gv-nomination) You need to meet the criteria for a GV.
 2. **Apply for GV.** You get the GV for yourself, and cancel your family visas to prepare for their golden visas. You are NOT a Resident yet.
 3. **Change status.** You have received the visa in the previous step, but need to perform the logical equivalent of re-entering the country under your new GV. You can acaieve this by flying out, or simply paying for a _Change Status_ procedure.
 4. **Issue residence.** Now that you have entered the UAE with your GV, you need to change your status to Resident.
@@ -72,11 +74,11 @@ Once you have a GV nomination, you can proceed to apply (and hopefully receive!)
 PRO or you.
 
 ### Process
-You need to upload the correct documentation, then 
+Once you have uploaded the correct documentation, ICA will analyse your request. If everything is ok with your submission, it will reach _Awaiting Visa/Residency Cancellation_. If not, you request will go in a loop of _Returned for modification_ -> _Re-submitted_ until it is correct or it has been returned 3 times (_Rejected_). If it has been rejected, you must pay the AED 354.57 application fee again to restart stage 2. It is not uncommon for an application to be rejected, so do not panic if this occurs. It does not count against you.
 ![Process for applying for a GV](./images/process-gv.png)
-
-> [!WARNING]
-> Your application must be correct, otherwise it will be _Returned for modification_. If your application has been returned 3 times, your application will be rejected and you must pay the AED 354.57 application fee again to restart stage 2. It is not uncommon for an application to be rejected, so do not panic if this occurs. It does not count against you.
+<p align="center">
+  _Illustration of Apply for GV process_
+</p>
 
 ### Process stages
 |#|Name|Description|Owner|Duration to progress to next stage|
