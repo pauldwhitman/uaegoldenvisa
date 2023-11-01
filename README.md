@@ -1,11 +1,12 @@
 # Guide to getting the UAE Golden Visa (for residents).
 This guide explains how to get a Golden Visa (GV) for people who are already residents of the UAE (any emirate). It explains the various stages, what information to submit, and how to sponsor your family.
 
-[ToC]
+### Not already a UAE resident?
+Sorry, this guide is not for you.
 
-# Terminology
+### Terminology
 
-In this document, the acronyms FAIC and ICA will be used interchangably to refer to the _Federal Authority for Identity, Citizenship, Customs & Port Security.
+In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably to refer to the _Federal Authority for Identity, Citizenship, Customs & Port Security.
 |Terminology|Description|
 |-|-|
 |Attested degree|A degree of the rank Bachelor or above that has received 3 stamps.|
@@ -22,11 +23,11 @@ In this document, the acronyms FAIC and ICA will be used interchangably to refer
 
 The statement _"I want a golden visa"_ is vague. This is actually 6 separate milestones which are as follows:
 1. [**Get GV nomination.**](#stage-1-get-gv-nomination) You need to meet the criteria for a GV.
-2. **Apply for GV.** You get the GV for yourself, and cancel your family visas to prepare for their golden visas. You are NOT a Resident yet.
-3. **Change status.** You have received the visa in the previous step, but need to perform the logical equivalent of re-entering the country under your new GV. You can acaieve this by flying out, or simply paying for a _Change Status_ procedure.
-4. **Issue residence.** Now that you have entered the UAE with your GV, you need to change your status to Resident.
-5. **Residency and Identity Issuance.** Now that you're a resident, you need to apply for a new EID.
-6. **Applying for GV for your family _(if applicable)_.** Now that you've got a Golden Visa, you may apply for your family.
+2. [**Apply for GV.**](#stage-2-apply-for-gv) You get the GV for yourself, and cancel your family visas to prepare for their golden visas. You are NOT a Resident yet.
+3. [**Change status.**](#stage-3-change-status) You have received the visa in the previous step, but need to perform the logical equivalent of re-entering the country under your new GV. You can acaieve this by flying out, or simply paying for a _Change Status_ procedure.
+4. [**Issue residence.**](#stage-4-issue-residence) Now that you have entered the UAE with your GV, you need to change your status to Resident.
+5. [**Residency and Identity Issuance.**](#stage-5-residency-and-identity-issuance) Now that you're a resident, you need to apply for a new EID.
+6. [**Applying for GV for your family.**](#stage-6-applying-for-gv-for-your-family) _(If applicable)_. Now that you've got a Golden Visa, you may apply for your family.
 
 This document describes how to perform these tasks.
 
@@ -40,7 +41,7 @@ You need a GV nomination. There are multiple nominating authorities including:
 
 Each organisation has its own nomination criteria, so select the organisation with criteria that suits your circumstance. Consult the u.ae website for a [list of nominating authorities](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa). For specific details, you will have to visit the website of the individual nominating authority.
 
-## What is a nomination?
+### What is a nomination?
 This is an recommendation made directly by the nominating authority confirming that you are eligible. For ADRO nominations, they will create a record directly in the FAIC system: there is no physical letter or PDF to collect. This may differ with other nominating authorities.
 
 ### How do I get a nomination through the ADRO?
@@ -157,7 +158,7 @@ Most information in the Personal Information section will be pre-filled.
 > Ensure your salary certificate was dated in the last 60 days. Otherwise your application _may_ be rejected.
 
 > [!WARNING]
-> Ensure your health insurance and tenancy contract are current. If they are not, your application will be rejected.
+> Ensure your health insurance and tenancy contract are current. If they are not, your application **will** be rejected.
 
 ### Government fees
 
@@ -186,7 +187,7 @@ Stage 2 must complete.
 
 ### Purpose
 
-At this point, you do not have an active visa. You need to do the logical equivalent of exit the country, and re-enter using your Entry Permit.
+At this point, you do not have an active visa and you are currently in the grace period. You need to do the logical equivalent of exit the country, and re-enter using your Entry Permit.
 
 ### Input
 
@@ -260,3 +261,5 @@ A medical fitness certificate issued by EHS.
 
 ### Formal ICA process name
 `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+
+## Stage 6: Applying for GV for your family
