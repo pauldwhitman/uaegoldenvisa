@@ -1,7 +1,9 @@
 # uaegoldenvisa
-Guide to getting the UAE Golden Visa
+Guide to getting the UAE Golden Visa for people who are already residents of the UAE (any emirate).
 
 # Terminology
+
+In this document, the acronyms FAIC and ICA will be used interchangably to refer to the _Federal Authority for Identity, Citizenship, Customs & Port Security.
 |Terminology|Description|
 |-|-|
 |Attested degree|A degree of the rank Bachelor or above that has received 3 stamps.|
@@ -10,31 +12,41 @@ Guide to getting the UAE Golden Visa
 |FAIC|Federal Authority for Identity, Citizenship, Customs & Port Security.|
 |GV|Golden Visa|
 |ICP|Another name for FAIC.|
+|PRO|Public Relations Officer. PROs are private sector government liaison and can make your life easier. PROs know the processes back to front, and know who to call when things aren't clear. They are highly recommended but charge a fee.|
 |UAEICP|Another name for the FAIC.|
 
 
 # Process
 
-A summary of the stages.
-1. Get GV nomination
-2. Apply for GV
-3. Change status
-4. Issue residence
-5. Residency and Identity Issuance
+The statement _"I want a golden visa"_ is vague. This is actually 6 separate milestones which are as follows:
+1. **Get GV nomination.** You need to meet the criteria for a GV.
+2. **Apply for GV.** You get the GV for yourself, and cancel your family visas to prepare for their golden visas. You are NOT a Resident yet.
+3. **Change status.** You have received the visa in the previous step, but need to perform the logical equivalent of re-entering the country under your new GV. You can acaieve this by flying out, or simply paying for a _Change Status_ procedure.
+4. **Issue residence.** Now that you have entered the UAE with your GV, you need to change your status to Resident.
+5. **Residency and Identity Issuance.** Now that you're a resident, you need to apply for a new EID.
+6. **Applying for GV for your family _(if applicable)_.** Now that you've got a Golden Visa, you may apply for your family.
+
+This document describes how to perform these tasks.
 
 ## Stage 1: Get GV nomination
-You need a GV nomination letter. There are multiple organisations that are authorised to give a GV nomination including
+You need a GV nomination. There are multiple nominating authorities including:
 
-* [Abu Dhabi Residents Office (ADRO)](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa). If you are an Abu Dhabi resident who earns more than AED 30,000, this is likely your best route.
+* [Abu Dhabi Residents Office (ADRO)](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa). If you are an Abu Dhabi resident who earns more than AED 30,000, this is likely your best route. The ADRO website has the [formal criteria required](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa/Specialists) to be eligible for a nomination.
 * [UAE Ministry of Culture & Youth](https://mcy.gov.ae/en/goldenvisa/)
 * [Emirates Council of Scientists](https://science.gov.ae/)
 * and many more
 
-Each organisation has its own nomination criteria, so select the organisation with criteria that suits your circumstance.
+Each organisation has its own nomination criteria, so select the organisation with criteria that suits your circumstance. Consult the u.ae website for a [list of nominating authorities](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa). For specific details, you will have to visit the website of the individual nominating authority.
 
-### ADRO Process
+## What is a nomination?
+This is an recommendation made directly by the nominating authority confirming that you are eligible. For ADRO nominations, they will create a record directly in the FAIC system: there is no physical letter or PDF to collect. This may differ with other nominating authorities.
+
+### How do I get a nomination through the ADRO?
 
 Applying through the ADRO can be done through the [TAMM](https://www.tamm.abudhabi/en/aspects-of-life/visaemiratesid/entryresidencypermits/VisaRequirements/RequestforGoldenVisaNomination) web portal.
+
+> [!NOTE]
+> You must be an Abu Dhabi resident to receive an ADRO nomination, but it is not actually necessary to live in Abu Dhabi. You can live in Dubai or another emirate, so long as your existing visa was issued by Abu Dhabi.
 
 When you have applied, you will receive a confirmation email.
 
@@ -44,21 +56,27 @@ ADRO will typically take 2-3 days to review your application. If successful, you
 
 ![ADRO GV nomination approval](./images/tamm-approved.png)
 
-You will also receive an email from the FAIC.
+ADRO will nominate you to FAIC, and you will receive an automated email from ICA as follows.
 
 ![Confirmation of nomination from FAIC](./images/ica-email-1.png)
 
+Once you have this automated email, you may proceed to the next stage.
+
 ## Stage 2: Apply for GV
-Once you have a GV nomination, you can proceed to apply for a GV.
+Once you have a GV nomination, you can proceed to apply (and hopefully receive!) a GV. This is the most complex stage where people get stuck. You can start this process by engaging a PRO, or submitting an application yourself through the ICA Smart Services web portal.
 
 ### Formal ICA process name
 `VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA`.
 
 ### Who can do this?
-You can engage a PRO or submit an applicaiton yourself through the ICA Smart Services web portal.
+PRO or you.
 
 ### Process
+You need to upload the correct documentation, then 
 ![Process for applying for a GV](./images/process-gv.png)
+
+> [!WARNING]
+> Your application must be correct, otherwise it will be _Returned for modification_. If your application has been returned 3 times, your application will be rejected and you must pay the AED 354.57 application fee again to restart stage 2. It is not uncommon for an application to be rejected, so do not panic if this occurs. It does not count against you.
 
 ### Process stages
 |#|Name|Description|Owner|Duration to progress to next stage|
@@ -67,7 +85,7 @@ You can engage a PRO or submit an applicaiton yourself through the ICA Smart Ser
 |2|Returned for modification|Your submission will be returned to you if ICA has found errors such as incorrect information or attachments.|You|Waiting on you|
 |3|Rejected|If you do not qualify for the GV or have had your application returned 3 times, it will be rejected. You will need to create another submission and pay the fee again.|You|N/A|
 |4|Re-submitted|ICA will review your submission again.|ICA|1-2 days|
-|5|Awaiting Visa/Residency Cancellation|Your submission is valid. You now need to cancel the visas of any dependents you have (if applicable) and then your own visa. Once you have terminated all visas, the submission will automatically progress to the _Submitted_ stage.|You|As long as it takes for you to cancel visas.|
+|5|Awaiting Visa/Residency Cancellation|Your submission is valid. This is a major achievement, congratulations! You now need to cancel the visas of any dependents you have (if applicable) and then your own visa. Once you have terminated all visas, the submission will automatically progress to the _Submitted_ stage. There is no need to notify ICA.|You|As long as it takes for you to cancel visas.|
 |6|Under processing|Your submission is being processed. After it is processed, the submission will automatically progress to the _Received_ stage.|ICA|5 minutes|
 |7|Received|Your submission has been received. The submission will automatically progress to the _Approved_ stage.|ICA|5 minutes|
 |8|Approved|Your Golden Visa has been issued. Congratulations!|ICA|N/A|
@@ -133,6 +151,12 @@ Most information in the Personal Information section will be pre-filled.
 |9|Qualification Certificate (Required for Electrical Engineering)|A PDF of your university degree. Your degree must have the required attestations/stamps, and must be translated into Arabic. The degree must be a Bachelor degree or higher; this may require special translation for countries where formal certifications are government-issued rather than university-issued.|
 |10|New salary certificate|A salary certificate from your employer containing your total salary. Your salary must be greater than AED 30,000, and the letter must be dated in the last 60 days. There must be an Arabic translation.|
 
+> [!WARNING]
+> Ensure your salary certificate was dated in the last 60 days. Otherwise your application _may_ be rejected.
+
+> [!WARNING]
+> Ensure your health insurance and tenancy contract are current. If they are not, your application will be rejected.
+
 ### Government fees
 
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
@@ -145,6 +169,9 @@ Most information in the Personal Information section will be pre-filled.
 | Total ||| 354.57 AED |
 
 You may incur charges for Arabic translation and degree attestation costs.
+
+> [!NOTE]
+> It is recommended that you translate your university degree and salary certificate into Arabic. Both are criteria for Golden Visa, and rejection will cost you time and effort.
 
 ## Stage 3: Change status
 
