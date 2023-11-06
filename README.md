@@ -1,12 +1,12 @@
-# Guide to getting the UAE Golden Visa (for residents).
+# Guide to getting the UAE Golden Visa (for residents)
 This guide explains how to get a Golden Visa (GV) for people who are already residents of the UAE (any emirate). It explains the various stages, what information to submit, and how to sponsor your family.
 
 ### Not already a UAE resident?
-Sorry, this guide is not for you.
+Some parts of this guide may be helpful for you, but this guide is not for you.
 
 ### Terminology
 
-In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably to refer to the _Federal Authority for Identity, Citizenship, Customs & Port Security.
+In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably to refer to the _Federal Authority for Identity, Citizenship, Customs & Port Security_.
 |Terminology|Description|
 |-|-|
 |Attested degree|A degree of the rank Bachelor or above that has received 3 stamps.|
@@ -21,7 +21,7 @@ In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably
 
 # Process
 
-The statement _"I want a golden visa"_ is vague. This is actually 6 separate milestones which are as follows:
+The statement _"I want a golden visa"_ is vague. It is actually 6 separate milestones as follows:
 1. [**Get GV nomination.**](#stage-1-get-gv-nomination) You need to meet the criteria for a GV.
 2. [**Apply for GV.**](#stage-2-apply-for-gv) You get the GV for yourself, and cancel your family visas to prepare for their golden visas. You are NOT a Resident yet.
 3. [**Change status.**](#stage-3-change-status) You have received the visa in the previous step, but need to perform the logical equivalent of re-entering the country under your new GV. You can acaieve this by flying out, or simply paying for a _Change Status_ procedure.
@@ -177,6 +177,7 @@ You may incur charges for Arabic translation and degree attestation costs.
 > It is recommended that you translate your university degree and salary certificate into Arabic. Both are criteria for Golden Visa, and rejection will cost you time and effort.
 
 ## Stage 3: Change status
+At this point, you do not have an active visa and you are currently in the grace period. You need to do the logical equivalent of exit the country, and re-enter using your Entry Permit.
 
 ### Prerequisites
 
@@ -185,9 +186,8 @@ Stage 2 must complete.
 ### Formal ICA process name
 `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`.
 
-### Purpose
-
-At this point, you do not have an active visa and you are currently in the grace period. You need to do the logical equivalent of exit the country, and re-enter using your Entry Permit.
+### Who can do this?
+PRO or you (through ICA website).
 
 ### Input
 
@@ -213,7 +213,6 @@ At this point, you do not have an active visa and you are currently in the grace
 
 
 ### Prerequisites
-
 A medical fitness certificate issued by EHS.
 
 
