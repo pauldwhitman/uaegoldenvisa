@@ -78,7 +78,7 @@ PRO or you.
 Once you have uploaded the correct documentation, ICA will analyse your request. If everything is ok with your submission, it will reach _Awaiting Visa/Residency Cancellation_. If not, you request will go in a loop of _Returned for modification_ -> _Re-submitted_ until it is correct or it has been returned 3 times (_Rejected_). If it has been rejected, you must pay the AED 354.57 application fee again to restart stage 2. It is not uncommon for an application to be rejected, so do not panic if this occurs. It does not count against you.
 ![Process for applying for a GV](./images/process-gv.png)
 <p align="center">
-  _Illustration of Apply for GV process_
+  <i>Illustration of Apply for GV process</i>
 </p>
 
 ### Process stages
