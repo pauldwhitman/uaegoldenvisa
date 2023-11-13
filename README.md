@@ -2,7 +2,7 @@
 This guide explains how to get a Golden Visa (GV) for people who are already residents of the UAE (any emirate). It explains the various stages, what information to submit, and how to sponsor your family.
 
 ### Not already a UAE resident?
-Some parts of this guide may be helpful for you, but this guide is not for you.
+Some parts of this guide may be helpful but this guide is not intended for you.
 
 ### Terminology
 
