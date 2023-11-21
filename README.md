@@ -85,9 +85,6 @@ Once you have uploaded the correct documentation, ICA will analyse your request.
   <i>Illustration of Apply for GV process</i>
 </p>
 
-### What happens when this stage finishes?
-If you get to stage 8, congratulations! You'll have
-
 ### Process stages
 |#|Name|Description|Owner|Duration to progress to next stage|
 |-|-|-|-|-|
