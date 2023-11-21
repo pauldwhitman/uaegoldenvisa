@@ -215,17 +215,19 @@ This needs to be performed through [Emirates Health Service (EHS)](https://www.e
 
 Go to the [Examination of Medical Fitness for Residency Visa](https://www.ehs.gov.ae/en/services/services-directory/examination-of-medical-fitness-for-residency-visa) page on the EHS website then click **Start Service**. Sign in with your UAE Pass.
 
-[EHS webpage](./images/4-ehs.png)
+![EHS webpage](./images/4-ehs.png)
 
 Once signed in, change to English.
 
-[EHS webpage in Arabic](./images/4-frontpage-arabic.png)
+![EHS webpage in Arabic](./images/4-frontpage-arabic.png)
 
 Under _Examination of Medical Fitness for Residency Visa_, click **Apply Now**.
 
-[EHS webpage in English])(./images/4-frontpage-english.png)
+![EHS webpage in English])(./images/4-frontpage-english.png)
 
-[EHS booking stage 1](./images/4-booking-1.png)
+Fill out the booking details.
+
+![EHS booking stage 1](./images/4-booking-1.png)
 
 
 
