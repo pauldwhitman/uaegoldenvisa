@@ -29,6 +29,10 @@ The statement _"I want a golden visa"_ is vague. It is actually 6 separate miles
 5. [**Residency and Identity Issuance.**](#stage-5-residency-and-identity-issuance) Now that you're a resident, you need to apply for a new EID.
 6. [**Applying for GV for your family.**](#stage-6-applying-for-gv-for-your-family) _(If applicable)_. Now that you've got a Golden Visa, you may apply for your family.
 
+This is illustrated as follows.
+
+![Golden Visa overview process](./images/overview-process.png)
+
 This document describes how to perform these tasks.
 
 ## Stage 1: Get GV nomination
