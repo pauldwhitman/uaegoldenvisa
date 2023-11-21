@@ -157,12 +157,6 @@ Most information in the Personal Information section will be pre-filled.
 |9|Qualification Certificate (Required for Electrical Engineering)|A PDF of your university degree. Your degree must have the required attestations/stamps, and must be translated into Arabic. The degree must be a Bachelor degree or higher; this may require special translation for countries where formal certifications are government-issued rather than university-issued.|
 |10|New salary certificate|A salary certificate from your employer containing your total salary. Your salary must be greater than AED 30,000, and the letter must be dated in the last 60 days. There must be an Arabic translation.|
 
-> [!WARNING]
-> Ensure your salary certificate was dated in the last 60 days. Otherwise your application _may_ be rejected.
-
-> [!WARNING]
-> Ensure your health insurance and tenancy contract are current. If they are not, your application **will** be rejected.
-
 ### Output
 When step 8 of this stage is complete, you will receive an eVisa PDF which looks like this. Take note of your _Entry Permit_ and _UID number_. You can download it from the ICA portal.
 ![How to download eVisa](./images/3-download-evisa.png)
