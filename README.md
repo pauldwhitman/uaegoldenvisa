@@ -163,7 +163,7 @@ When the status for step 8 is complete, you can download the _Entry Permit_ PDF 
 Once you've downloaded the eVisa PDF, take note of your _Entry Permit_ and _UID number_. You will need these for the next step.
 ![Sample Entry Permit](./images/3-entry-permit.jpg)
 
-### Government fees
+### Cost
 These are the fees charged by ICA, and do not include any translation or attestation charges.
 
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
@@ -252,9 +252,17 @@ Befor
 
 
 ## Stage 5: Residency and Identity Issuance
-This stage gets you the EID. You can apply for this stage at the same time as stage 4, but there's no need to rush as there's no urgency to have an EID. The formal name of this process is `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+This stage gets you the EID. You can apply for this stage at the same time as stage 4, but there's no need to rush as there's no urgency to have an EID. The formal name of this process is `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`. Once you've submitted the form, you'll get a _REGISTRATION ID CARD FORM_ that looks something like this.
 
-# Input
+![REGISTRATION ID CARD FORM](./images/5-eid-form.png)
+
+### Cost
+| Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
+| ---------------- | ------------ | ------------------- | -------------- |
+| CARD ISSUANCE    | 1000.00       | 0.00                |                |
+| ELECTRONIC PAYMENT FEES | 14.30 | 0.72 ||
+| Smart Services Fee | 100.00 | 0.00 ||
+| Total ||| 1,115.02 AED |
 
 # Attachments required
 
