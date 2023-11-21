@@ -260,5 +260,12 @@ This stage gets you the EID. You can apply for this stage at the same time as st
 
 ### Formal ICA process name
 
-
 ## Stage 6: Applying for GV for your family
+At this stage, you've got your GV but your family are on cancelled visas. You need to perform the following for each family member:
+* Sponsor them by performing the process `VISA - GOLDEN RESIDENCE - FAMILY MEMEBER FOR PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA` for each person.
+* Perform a _Change Status_ using process `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`
+* Complete their residency issuance using process `RESIDENCY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. This means a medical test for those old enough!
+* Get their EID using process `RESIDENCE AND IDENTITY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+
+> [!NOTE]
+> Each process (with the exception of _Change Status_) is a special process that contains the word _GOLDEN_. **Do NOT use the non-golden process.**
