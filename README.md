@@ -31,7 +31,7 @@ The statement _"I want a golden visa"_ is vague. It is actually 6 separate miles
 
 This is illustrated as follows.
 
-![Golden Visa overview process](./images/overview-process.png)
+![Golden Visa overview process](./images/1-overview-process.png)
 
 This document describes how to perform these tasks.
 
