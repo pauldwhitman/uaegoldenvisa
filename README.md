@@ -72,14 +72,11 @@ Once you have this automated email, you may proceed to the next stage.
 ## Stage 2: Apply for GV
 Once you have a GV nomination, you can proceed to apply (and hopefully receive!) a GV. This is the most complex stage where people get stuck. You can start this process by engaging a PRO, or submitting an application yourself through the ICA Smart Services web portal.
 
-### Formal ICA process name
-`VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA`.
-
 ### Who can do this?
-PRO or you.
+PRO or you (through ICA website).
 
 ### Process
-Once you have uploaded the correct documentation, ICA will analyse your request. If everything is ok with your submission, it will reach _Awaiting Visa/Residency Cancellation_. If not, you request will go in a loop of _Returned for modification_ -> _Re-submitted_ until it is correct or it has been returned 3 times (_Rejected_). If it has been rejected, you must pay the AED 354.57 application fee again to restart stage 2. It is not uncommon for an application to be rejected, so do not panic if this occurs. It does not count against you.
+You need to go to the ICA website and submit a request of type `VISA - GOLDEN RESIDENCE - PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA` after which ICA will analyse your request. If everything is ok with your submission, it will reach _Awaiting Visa/Residency Cancellation_. If not, you request will go in a loop of _Returned for modification_ -> _Re-submitted_ until it is correct or it has been returned 3 times (_Rejected_). If it has been rejected, you must pay the AED 354.57 application fee again to restart stage 2. It is not uncommon for an application to be rejected, so do not panic if this occurs. It does not count against you.
 ![Process for applying for a GV](./images/process-gv.png)
 <p align="center">
   <i>Illustration of Apply for GV process</i>
@@ -160,7 +157,7 @@ Please observe that some of the attachments require Arabic translation.
 |10|New salary certificate|A salary certificate from your employer containing your total salary. Your salary must be greater than AED 30,000, the letter must be dated in the last 60 days, and it **must be translated into Arabic**.|
 
 ### Output
-When the status for step 8 is complete, you can download the eVis aPDF. In the ICA portal, find the request, click the menu button, then click _Print Electronic Visa_.
+When the status for step 8 is complete, you can download the _Entry Permit_ PDF (commonly referred to as an _eVisa_). In the ICA portal, find the request, click the menu button, then click _Print Electronic Visa_.
 ![How to download eVisa](./images/3-download-evisa.png)
 
 Once you've downloaded the eVisa PDF, take note of your _Entry Permit_ and _UID number_. You will need these for the next step.
@@ -179,19 +176,10 @@ These are the fees charged by ICA, and do not include any translation or attesta
 | Total ||| 354.57 AED |
 
 ## Stage 3: Change status
-In the previous stage, your visa was cancelled. At this point, you do not have an active visa and you are currently in the _grace period_. You need to perform the _logical equivalent_ of exiting the UAE and re-entering using an _Entry Permit (EP)_. You can achieve this by flying out of the UAE and returning, or simply paying for a _Change Status_ procedure _(highly recommended)_. When this stage is complete, you will have _"re-entered"_ the country using an _Entry Permit (EP)_.
-
-### Formal ICA process name
-`RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`.
+In the previous stage, your visa was cancelled. At this point, you do not have an active visa and you are currently within the _grace period_. You need to perform the _logical equivalent_ of exiting the UAE and re-enter using an _Entry Permit (EP)_. You can achieve this by flying out of the UAE and returning, or simply performing the _Change Status_ procedure, formally known as `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`. When this stage is completed successfully, you will have _"re-entered"_ the country using an _Entry Permit (EP)_.
 
 ### Who can do this?
 PRO or you (through ICA website).
-
-### Input
-Stage 2 needs to complete.
-
-### Output
-You will receive an _Entry Permit_ PDF file.
 
 ### Cost
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
@@ -203,7 +191,7 @@ You will receive an _Entry Permit_ PDF file.
 | Total ||| 658.47 AED |
 
 ## Stage 4: Issue Residence
-You are now in the country using a temporary _Entry Permit (EP)_. The EP is a visa with 60 days validity which gives you enough time to finalise your residency status which includes a medical test (bloodwork and x-ray). If you believe you are pregnant, the x-ray can be swapped for a pregnancy test.
+You are now in the country using a temporary _Entry Permit (EP)_. The EP is a visa with 60 days validity which gives you enough time to finalise your residency status which includes a medical test. Once you ahve completed the medical test, you can begin the residency issue process which is formally known as `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. At the successful completion of this stage, you will receive your GV with 10 years validity!
 
 ### How do I book a medical test?
 This needs to be performed through [Emirates Health Service (EHS)](https://www.ehs.gov.ae/) using their [Examination of Medical Fitness for Residency Visa](https://www.ehs.gov.ae/en/services/services-directory/examination-of-medical-fitness-for-residency-visa) process. It's important you use EHS because they will upload the results of your medical test directly to ICA.
@@ -224,25 +212,22 @@ Fill out the booking details. In the section _Eida Number_, enter your **Emirate
 
 ![EHS booking stage 1](./images/4-booking-1.png)
 
-For your Unified Number, enter the _U.I.D._ No from your eVisa PDF. For your Arabic name, copy and paste this from your eVisa PDF.
+For your Unified Number, enter the _U.I.D._ No from your _Entry Permit_ PDF. For your Arabic name, copy and paste this from your _Entry Permit_ PDF.
 
 ![EHS booking stage 1](./images/4-booking-2.png)
 
+As you are applying for a GV, your sponsor is yourself. If you are applying for your dependent, put your name in this field.
+
 ![EHS booking stage 1](./images/4-booking-3.png)
 
+### If I'm pregnant, do I still need to perform the x-ray part of the medical test?
+No. They will perform a blood test to confirm you are pregnant.
 
+### Do I need to upload the results of the medical certificate anywhere?
+No, this is done automatically.
 
-### Formal ICA process name
-`RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`.
-
-### Purpose
-Get an Emirates ID.
-
-### Input
-
-### Attachments required
-You do not need to upload your medical certificate.
-
+### Attachments
+Befor
 |#|Attachment|Description|
 |-|-|-|
 |1|A COPY OF THE PASSPORT OF THE BENEFICIARY OF THE SERVICE|Your passport. Ensure your passport has not expired.|
@@ -254,7 +239,7 @@ You do not need to upload your medical certificate.
 ### Output
 |#|Output|Description|
 |-|-|-|
-|1|PDF reeceipt|This contains your PRAN number.|
+|1|PDF reeeipt|This contains your PRAN number.|
 |2|Emirates ID copy|A PDF containing the front and back of your Emirates ID. Ensure your EID has not expired.|
 
 ### Cost
@@ -267,16 +252,13 @@ You do not need to upload your medical certificate.
 
 
 ## Stage 5: Residency and Identity Issuance
-
-### Prerequisites
-
-A medical fitness certificate issued by EHS.
+This stage gets you the EID. You can apply for this stage at the same time as stage 4, but there's no need to rush as there's no urgency to have an EID. The formal name of this process is `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
 
 # Input
 
 # Attachments required
 
 ### Formal ICA process name
-`RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+
 
 ## Stage 6: Applying for GV for your family
