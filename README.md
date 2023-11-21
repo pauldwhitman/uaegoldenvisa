@@ -18,7 +18,6 @@ In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably
 |PRO|Public Relations Officer. PROs are private sector government liaison and can make your life easier. PROs know the processes back to front, and know who to call when things aren't clear. They are highly recommended but charge a fee.|
 |UAEICP|Another name for the FAIC.|
 
-
 # Process
 
 The statement _"I want a golden visa"_ is vague. It is actually 6 separate milestones as follows:
@@ -33,7 +32,8 @@ This is illustrated as follows.
 
 ![Golden Visa overview process](./images/1-overview-process.png)
 
-This document describes how to perform these tasks.
+If you perform the process perfectly, steps 2-5 will look like this in the ICA portal.
+![Process](./images/0-summary-process.png)
 
 ## Stage 1: Get GV nomination
 You need a GV nomination. There are multiple nominating authorities including:
@@ -256,6 +256,8 @@ This stage gets you the EID. You can apply for this stage at the same time as st
 
 ![REGISTRATION ID CARD FORM](./images/5-eid-form.png)
 
+If you want to check status of the EID, enter the _Application No_ into the [status check website](https://icp.gov.ae/en/services/priority-services/id-card-status/). The card can take up to 2-3 weeks to be ready. When it's ready, pick it up at Emirates Post.
+
 ### Cost
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
 | ---------------- | ------------ | ------------------- | -------------- |
@@ -264,9 +266,6 @@ This stage gets you the EID. You can apply for this stage at the same time as st
 | Smart Services Fee | 100.00 | 0.00 ||
 | Total ||| 1,115.02 AED |
 
-# Attachments required
-
-### Formal ICA process name
 
 ## Stage 6: Applying for GV for your family
 At this stage, you've got your GV but your family are on cancelled visas. You need to perform the following for each family member:
