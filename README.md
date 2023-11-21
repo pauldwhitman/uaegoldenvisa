@@ -278,7 +278,7 @@ If you want to check status of the EID, enter the _Application No_ into the [sta
 At this stage, you've got your GV but your family are on cancelled visas. You need to perform the following for each family member:
 * Sponsor them by performing the process `VISA - GOLDEN RESIDENCE - FAMILY MEMEBER FOR PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA` for each person.
 * Perform a _Change Status_ using process `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`
-* Complete their residency issuance using process `RESIDENCY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. This means a medical test for those old enough!
+* Complete their residency issuance using process `RESIDENCY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. This means a medical test for those who are aged 18 and over.
 * Get their EID using process `RESIDENCE AND IDENTITY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
 
 > [!NOTE]
