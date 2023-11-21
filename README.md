@@ -32,7 +32,7 @@ This is illustrated as follows.
 
 ![Golden Visa overview process](./images/1-overview-process.png)
 
-If you perform the process perfectly, steps 2-5 will look like this in the ICA portal.
+If you perform the process perfectly, steps 2-5 will look like this in the ICA portal (reverse order).
 ![Process](./images/0-summary-process.png)
 
 ## Stage 1: Get GV nomination
