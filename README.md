@@ -218,11 +218,13 @@ Once signed in, change to English.
 
 Under _Examination of Medical Fitness for Residency Visa_, click **Apply Now**.
 
-![EHS webpage in English])(./images/4-frontpage-english.png)
+![EHS webpage in English](./images/4-frontpage-english.png)
 
 Fill out the booking details. In the section _Eida Number_, enter your **Emirates ID number**. Under _Permit Residence Number_, enter your **Entry Permit No** from your eVisa.
 
 ![EHS booking stage 1](./images/4-booking-1.png)
+
+For your Unified Number, enter the _U.I.D._ No from your eVisa PDF. For your Arabic name, copy and paste this from your eVisa PDF.
 
 ![EHS booking stage 1](./images/4-booking-2.png)
 
