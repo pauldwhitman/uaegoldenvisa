@@ -85,6 +85,9 @@ Once you have uploaded the correct documentation, ICA will analyse your request.
   <i>Illustration of Apply for GV process</i>
 </p>
 
+### What happens when this stage finishes?
+If you get to stage 8, congratulations! You'll have
+
 ### Process stages
 |#|Name|Description|Owner|Duration to progress to next stage|
 |-|-|-|-|-|
@@ -143,6 +146,10 @@ Most information in the Personal Information section will be pre-filled.
 |40|Addresses Info|Permanent Country||
 |41|Addresses Info|Email||
 
+### Output
+The most important output is your eVisa PDF which looks like this. Take note of your _Entry Permit_ and _UID number_.
+![Sample Entry Permit](./images/3-entry-permit.jpg)
+
 
 ### Attachments required
 |#|Attachment|Description|
@@ -183,9 +190,6 @@ You may incur charges for Arabic translation and degree attestation costs.
 ## Stage 3: Change status
 In the previous stage, your visa was cancelled. At this point, you do not have an active visa and you are currently in the _grace period_. You need to perform the _logical equivalent_ of exiting the UAE and re-entering using an _Entry Permit (EP)_. You can achieve this by flying out of the UAE and returning, or simply paying for a _Change Status_ procedure _(highly recommended)_. When this stage is complete, you will have _"re-entered"_ the country using an _Entry Permit (EP)_.
 
-### Prerequisites
-Stage 2 must complete.
-
 ### Formal ICA process name
 `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`.
 
@@ -216,7 +220,6 @@ This needs to be performed through [Emirates Health Service (EHS)](https://www.e
 Go to the [Examination of Medical Fitness for Residency Visa](https://www.ehs.gov.ae/en/services/services-directory/examination-of-medical-fitness-for-residency-visa) page on the EHS website then click **Start Service**. Sign in with your UAE Pass.
 
 ![EHS webpage](./images/4-ehs.png)
-![Golden Visa overview process](./images/1-overview-process.png)
 
 Once signed in, change to English.
 
@@ -226,19 +229,18 @@ Under _Examination of Medical Fitness for Residency Visa_, click **Apply Now**.
 
 ![EHS webpage in English])(./images/4-frontpage-english.png)
 
-Fill out the booking details.
+Fill out the booking details. In the section _Eida Number_, enter your **Emirates ID number**. Under _Permit Residence Number_, enter your **Entry Permit No** from your eVisa.
 
 ![EHS booking stage 1](./images/4-booking-1.png)
+
+![EHS booking stage 1](./images/4-booking-2.png)
+
+![EHS booking stage 1](./images/4-booking-3.png)
 
 
 
 ### Formal ICA process name
 `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`.
-
-### Prerequisites
-Stage 3 needs to complete.
-
-
 
 ### Purpose
 Get an Emirates ID.
