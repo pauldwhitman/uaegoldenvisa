@@ -144,6 +144,8 @@ Most information in the Personal Information section will be pre-filled.
 |41|Addresses Info|Email||
 
 ### Attachments required
+Please observe that some of the attachments require Arabic translation.
+
 |#|Attachment|Description|
 |-|-|-|
 |1|BANK STATEMENT|A single PDF containing 6 months of bank statements showing monthly deposits greater than AED 30,000.|
@@ -154,15 +156,18 @@ Most information in the Personal Information section will be pre-filled.
 |6|Employment agreement|A PDF of your signed employment contract with your signature and your salary.|
 |7|Tenancy contract|A PDF of your Ejari or equivalent. Ensure your document has not expired.|
 |8|Colored Photo||
-|9|Qualification Certificate (Required for Electrical Engineering)|A PDF of your university degree. Your degree must have the required attestations/stamps, and must be translated into Arabic. The degree must be a Bachelor degree or higher; this may require special translation for countries where formal certifications are government-issued rather than university-issued.|
-|10|New salary certificate|A salary certificate from your employer containing your total salary. Your salary must be greater than AED 30,000, and the letter must be dated in the last 60 days. There must be an Arabic translation.|
+|9|Qualification Certificate (Required for Electrical Engineering)|A PDF of your university degree. Your degree must have the required attestations/stamps, and **must be translated into Arabic**. The degree must be a Bachelor degree or higher; this may require special translation for countries where formal certifications are government-issued rather than university-issued.|
+|10|New salary certificate|A salary certificate from your employer containing your total salary. Your salary must be greater than AED 30,000, the letter must be dated in the last 60 days, and it **must be translated into Arabic**.|
 
 ### Output
-When step 8 of this stage is complete, you will receive an eVisa PDF which looks like this. Take note of your _Entry Permit_ and _UID number_. You can download it from the ICA portal.
+When the status for step 8 is complete, you can download the eVis aPDF. In the ICA portal, find the request, click the menu button, then click _Print Electronic Visa_.
 ![How to download eVisa](./images/3-download-evisa.png)
+
+Once you've downloaded the eVisa PDF, take note of your _Entry Permit_ and _UID number_. You will need these for the next step.
 ![Sample Entry Permit](./images/3-entry-permit.jpg)
 
 ### Government fees
+These are the fees charged by ICA, and do not include any translation or attestation charges.
 
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
 | ---------------- | ------------ | ------------------- | -------------- |
@@ -172,11 +177,6 @@ When step 8 of this stage is complete, you will receive an eVisa PDF which looks
 | ICP FEES | 122.00 | 0.00 ||
 | ELECTRONIC PAYMENT FEES | 4.57 | 0.23 ||
 | Total ||| 354.57 AED |
-
-You may incur charges for Arabic translation and degree attestation costs.
-
-> [!NOTE]
-> It is recommended that you translate your university degree and salary certificate into Arabic. Both are criteria for Golden Visa, and rejection will cost you time and effort.
 
 ## Stage 3: Change status
 In the previous stage, your visa was cancelled. At this point, you do not have an active visa and you are currently in the _grace period_. You need to perform the _logical equivalent_ of exiting the UAE and re-entering using an _Entry Permit (EP)_. You can achieve this by flying out of the UAE and returning, or simply paying for a _Change Status_ procedure _(highly recommended)_. When this stage is complete, you will have _"re-entered"_ the country using an _Entry Permit (EP)_.
