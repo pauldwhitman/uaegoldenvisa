@@ -9,7 +9,7 @@ Some parts of this guide may be helpful but this guide is not intended for you.
 In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably to refer to the _Federal Authority for Identity, Citizenship, Customs & Port Security_.
 |Terminology|Description|
 |-|-|
-|Attested degree|A degree of the rank Bachelor or above that has received 3 stamps.|
+|Attested degree|A degree of the rank Bachelor or above that has received 3 stamps (your government's Ministry of Foreign Affairs equivalent, your country's UAE embassy, and the UAE Ministry of Foreign Affairs.|
 |ADRO|Abu Dhabi Residents Office|
 |EID|Emirates ID|
 |FAIC|Federal Authority for Identity, Citizenship, Customs & Port Security.|
@@ -93,6 +93,9 @@ You need to go to the ICA website and submit a request of type `VISA - GOLDEN RE
 |6|Under processing|Your submission is being processed. After it is processed, the submission will automatically progress to the _Received_ stage.|ICA|5 minutes|
 |7|Received|Your submission has been received. The submission will automatically progress to the _Approved_ stage.|ICA|5 minutes|
 |8|Approved|Your Golden Visa has been issued. Congratulations!|ICA|N/A|
+
+Here is a screenshot of a successful submission with a single return.
+![Flow for stage 2](./images/2-flow.png)
 
 ### Input
 Most information in the Personal Information section will be pre-filled.
@@ -180,6 +183,10 @@ In the previous stage, your visa was cancelled. At this point, you do not have a
 
 ### Who can do this?
 PRO or you (through ICA website).
+
+### Process stages
+There are only 2 stages: _Submitted_ and _Approved_. Here is a screenshot of a successful submission. 
+![Flow for stage 3](./images/3-flow.png)
 
 ### Cost
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
