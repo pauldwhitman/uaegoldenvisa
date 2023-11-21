@@ -143,11 +143,6 @@ Most information in the Personal Information section will be pre-filled.
 |40|Addresses Info|Permanent Country||
 |41|Addresses Info|Email||
 
-### Output
-The most important output is your eVisa PDF which looks like this. Take note of your _Entry Permit_ and _UID number_.
-![Sample Entry Permit](./images/3-entry-permit.jpg)
-
-
 ### Attachments required
 |#|Attachment|Description|
 |-|-|-|
@@ -167,6 +162,11 @@ The most important output is your eVisa PDF which looks like this. Take note of 
 
 > [!WARNING]
 > Ensure your health insurance and tenancy contract are current. If they are not, your application **will** be rejected.
+
+### Output
+When step 8 of this stage is complete, you will receive an eVisa PDF which looks like this. Take note of your _Entry Permit_ and _UID number_. You can download it from the ICA portal.
+![How to download eVisa](./images/3-download-evisa.png)
+![Sample Entry Permit](./images/3-entry-permit.jpg)
 
 ### Government fees
 
