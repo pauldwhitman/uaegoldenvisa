@@ -24,7 +24,7 @@ In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably
 The statement _"I want a golden visa"_ is vague. It is actually 6 separate milestones as follows:
 1. [**Get GV nomination.**](#stage-1-get-gv-nomination) You need to meet the criteria for a GV.
 2. [**Apply for GV.**](#stage-2-apply-for-gv) You get the GV for yourself, and cancel your family visas to prepare for their golden visas. You are NOT a Resident yet.
-3. [**Change status.**](#stage-3-change-status) You have received the visa in the previous step, but need to perform the logical equivalent of re-entering the country under your new GV. You can acaieve this by flying out, or simply paying for a _Change Status_ procedure.
+3. [**Change status.**](#stage-3-change-status) You have received the visa in the previous step, but need to perform the logical equivalent of re-entering the country under your new GV. You can achieve this by flying out of the UAE and returning, or simply paying for a _Change Status_ procedure _(highly recommended)_.
 4. [**Issue residence.**](#stage-4-issue-residence) Now that you have entered the UAE with your GV, you need to change your status to Resident.
 5. [**Residency and Identity Issuance.**](#stage-5-residency-and-identity-issuance) Now that you're a resident, you need to apply for a new EID.
 6. [**Applying for GV for your family.**](#stage-6-applying-for-gv-for-your-family) _(If applicable)_. Now that you've got a Golden Visa, you may apply for your family.
@@ -181,10 +181,9 @@ You may incur charges for Arabic translation and degree attestation costs.
 > It is recommended that you translate your university degree and salary certificate into Arabic. Both are criteria for Golden Visa, and rejection will cost you time and effort.
 
 ## Stage 3: Change status
-At this point, you do not have an active visa and you are currently in the grace period. You need to do the logical equivalent of exit the country, and re-enter using your Entry Permit.
+In the previous stage, your visa was cancelled. At this point, you do not have an active visa and you are currently in the _grace period_. You need to perform the _logical equivalent_ of exiting the UAE and re-entering using an _Entry Permit (EP)_. You can achieve this by flying out of the UAE and returning, or simply paying for a _Change Status_ procedure _(highly recommended)_. When this stage is complete, you will have _"re-entered"_ the country using an _Entry Permit (EP)_.
 
 ### Prerequisites
-
 Stage 2 must complete.
 
 ### Formal ICA process name
@@ -194,8 +193,10 @@ Stage 2 must complete.
 PRO or you (through ICA website).
 
 ### Input
+Stage 2 needs to complete.
 
 ### Output
+You will receive an _Entry Permit_ PDF file.
 
 ### Cost
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
@@ -206,18 +207,33 @@ PRO or you (through ICA website).
 | ELECTRONIC PAYMENT FEES | 8.47 | 0.42 ||
 | Total ||| 658.47 AED |
 
-
-
-
 ## Stage 4: Issue Residence
+You are now in the country using a temporary _Entry Permit (EP)_. The EP is a visa with 60 days validity which gives you enough time to finalise your residency status which includes a medical test (bloodwork and x-ray). If you believe you are pregnant, the x-ray can be swapped for a pregnancy test.
+
+### How do I book a medical test?
+This needs to be performed through [Emirates Health Service (EHS)](https://www.ehs.gov.ae/) using their [Examination of Medical Fitness for Residency Visa](https://www.ehs.gov.ae/en/services/services-directory/examination-of-medical-fitness-for-residency-visa) process. It's important you use EHS because they will upload the results of your medical test directly to ICA.
+
+Go to the [Examination of Medical Fitness for Residency Visa](https://www.ehs.gov.ae/en/services/services-directory/examination-of-medical-fitness-for-residency-visa) page on the EHS website then click **Start Service**. Sign in with your UAE Pass.
+
+[EHS webpage](./images/4-ehs.png)
+
+Once signed in, change to English.
+
+[EHS webpage in Arabic](./images/4-frontpage-arabic.png)
+
+Under _Examination of Medical Fitness for Residency Visa_, click **Apply Now**.
+
+[EHS webpage in English])(./images/4-frontpage-english.png)
+
+[EHS booking stage 1](./images/4-booking-1.png)
+
+
 
 ### Formal ICA process name
 `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`.
 
-
-
 ### Prerequisites
-A medical fitness certificate issued by EHS.
+Stage 3 needs to complete.
 
 
 
