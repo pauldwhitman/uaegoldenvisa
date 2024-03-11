@@ -29,8 +29,26 @@ The statement _"I want a golden visa"_ is vague. It is actually 6 separate miles
 6. [**Applying for GV for your family.**](#stage-6-applying-for-gv-for-your-family) _(If applicable)_. Now that you've got a Golden Visa, you may apply for your family.
 
 This is illustrated as follows.
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart TD
+    start(("Start"))
+    step1["1.\n Get GV nomination"]
+    step2["2.\n Apply for GV"]
+    step3["3.\n Change status"]
+    step4["4.\n Issue residence"]
+    step5["5.\n Residency and Identity Issuance"]
+    question{"Need to sponsor family?"}
+    step6["6.\n Apply for GV for your family"]
+    final(("End"))
 
-![Golden Visa overview process](./images/1-overview-process.png)
+    start --> step1 --> step2 --> step3 --> step4 --> step5 --> question
+    question --> |Yes| step6
+    question --> |No| final
+    step6 --> final
+
+
+```
 
 If you perform the process perfectly, steps 2-5 will look like this in the ICA portal (reverse order, note the date and time).
 ![Process](./images/0-summary-process.png)
