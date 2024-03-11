@@ -174,7 +174,7 @@ Please observe that some of the attachments require Arabic translation.
 |6|Employment agreement|A PDF of your signed employment contract with your signature and your salary.|
 |7|Tenancy contract|A PDF of your Ejari or equivalent. Ensure your document has not expired.|
 |8|Colored Photo||
-|9|Qualification Certificate (Required for Electrical Engineering)|A PDF of your university degree. Your degree must have the required attestations/stamps, and **must be translated into Arabic**. The degree must be a Bachelor degree or higher; this may require special translation for countries where formal certifications are government-issued rather than university-issued.|
+|9|Qualification Certificate (Required for Electrical Engineering)|A PDF of your university degree, specifially your testamur (the nice looking one you hang on your wall!). You do NOT need to include your completion letter or transcript. Your degree must have the required attestations/stamps, and **must be translated into Arabic**. The degree must be a Bachelor degree or higher; this may require special translation for countries where formal certifications are government-issued rather than university-issued.|
 |10|New salary certificate|A salary certificate from your employer containing your total salary. Your salary must be greater than AED 30,000, the letter must be dated in the last 60 days, and it **must be translated into Arabic**.|
 
 ### Output
