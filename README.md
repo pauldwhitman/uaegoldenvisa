@@ -1,4 +1,4 @@
-# Guide to getting the UAE Golden Visa (for residents)
+![image](https://github.com/pauldwhitman/uaegoldenvisa/assets/2204162/3f7cbdbc-a2e1-4868-920e-2f5aa24e33f4)# Guide to getting the UAE Golden Visa (for residents)
 _Version 1.1_
 
 This guide explains how to get a Golden Visa (GV) for people who are already residents of the UAE (any emirate). It explains the various stages, what information to submit, and how to sponsor your family.
@@ -24,20 +24,46 @@ In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably
 |PRO|Public Relations Officer. PROs are private sector government liaison and can make your life easier. PROs know the processes back to front, and know who to call when things aren't clear. They are highly recommended but charge a fee.|
 |UAEICP|Another name for the FAIC.|
 
-# What's the total cost?
+### What's the total cost?
 
-For 1 person, the government fees are as follows:
+For 1 person, the government fees are:
 | Fees Description | Amount (AED) |
 | ---------------- | ------------ |
 | **Stage 1.** Get GV nomination     | Free       |
-| **Stage 2.** Apply for GV |AED 354.57 |
-| **Stage 3.** Change status | AED 658.47 |
+| **Stage 2.** Apply for GV |AED 356.20 |
+| **Stage 3.** Change status | AED 660.29 |
 | **Stage 4.** Issue residence | AED 1,268.48 |
 | **Stage 4.** Examination of Medical Fitness for Residency Visa ("medical test") | AED 360.00 |
 | **Stage 5.** Residency and Identity Issuance | AED 1,115.02 |
-| Total | AED 3,756.54|
+| **Total** | AED 3,759.99|
+
+For each person you sponsor, the government fees are the **same amount**.
+| Fees Description | Amount (AED) |
+| ---------------- | ------------ |
+| **Stage 6A.** Sponsor dependent | AED 356.20 |
+| **Stage 6B.** Change status of dependent | AED 660.29 |
+| **Stage 6C.** Change residency of dependent | AED 1268.48 |
+| **Stage 6C.** Examination of Medical Fitness for Residency Visa ("medical test") | AED 360.00 |
+| **Stage 6D.** Residency and Identity Issuance of dependent | AED 1,115.02 |
+| **Total** | AED 3,759.99|
+
+So for a family, the total charge is:
+| Family type | Amount (AED) |
+| ---------------- | ------------ |
+| **You** | AED 3,759.99 |
+| **You + 1 dependent**	| AED 7,519.98 |
+| **You + 2 dependents** | AED 11,279.97 |
+| **You + 3 dependents** | AED 15,039.96 |
+| **You + 4 dependents** | AED 18,799.95 |
+| **You + 5 dependents** | AED 22,559.94 |
+| **You + 6 dependents** | AED 26,319.93 |
+| **You + 7 dependents** | AED 30,079.92 |
+| **You + 8 dependents** | AED 33,839.91 |
+| **You + 9 dependents** | AED 37,599.90 |
+| **You + 10 dependents** | AED 41,359.89 |
 
 * Fees are subject to change.
+* If the dependent is below 18, a medical is not required.
 * If you choose urgent fees for the medical test, the cost will be higher.
 * Excludes cost of PRO.
 
@@ -217,7 +243,7 @@ These are the fees charged by ICA, and do not include any translation or attesta
 | E-SERVICES FEES | 28.00 | 1.40 ||
 | ICP FEES | 122.00 | 0.00 ||
 | ELECTRONIC PAYMENT FEES | 4.57 | 0.23 ||
-| Total ||| 354.57 AED |
+| Total ||| 356.20 AED |
 
 ## Stage 3: Change status
 In the previous stage, your visa was cancelled. At this point, you do not have an active visa and you are currently within the _grace period_. You need to perform the _logical equivalent_ of exiting the UAE and re-enter using an _Entry Permit (EP)_. You can achieve this by flying out of the UAE and returning, or simply performing the _Change Status_ procedure, formally known as `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`. When this stage is completed successfully, you will have _"re-entered"_ the country using an _Entry Permit (EP)_.
@@ -236,7 +262,7 @@ There are only 2 stages: _Submitted_ and _Approved_. Here is a screenshot of a s
 | E-SERVICE FEES | 28.00 | 1.40 ||
 | ICP FEES | 122.00 | 0.00 ||
 | ELECTRONIC PAYMENT FEES | 8.47 | 0.42 ||
-| Total ||| 658.47 AED |
+| Total ||| 660.29 AED |
 
 ## Stage 4: Issue Residence
 You are now in the country using a temporary _Entry Permit (EP)_. The EP is a visa with 60 days validity which gives you enough time to finalise your residency status which includes a medical test. Once you've completed the medical test, you can begin the residency issue process which is formally known as `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. At the successful completion of this stage, you will receive your GV with 10 years validity!
@@ -319,10 +345,53 @@ If you want to check status of the EID, enter the _Application No_ into the [sta
 
 ## Stage 6: Applying for GV for your family
 At this stage, you've got your GV but your family are on cancelled visas. You need to perform the following for each family member:
-* Sponsor them by performing the process `VISA - GOLDEN RESIDENCE - FAMILY MEMEBER FOR PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA` for each person.
-* Perform a _Change Status_ using process `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`
-* Complete their residency issuance using process `RESIDENCY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. This means a medical test for those who are aged 18 and over.
-* Get their EID using process `RESIDENCE AND IDENTITY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+
+### Stage 6A: Sponsor dependent
+Sponsor them by performing the process `VISA - GOLDEN RESIDENCE - FAMILY MEMEBER FOR PERSONS WHO ARE TALENTED PIONEERS - ISSUE NEW VISA` for each person. The cost of this step is
+
+| Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
+| ---------------- | ------------ | ------------------- | -------------- |
+| REQUEST FEES    | 100.00       | 0.00                |                |
+| ISSUE FEES | 100.00 | 0.00 ||
+| E-SERVICES FEES | 28.00 | 1.40 ||
+| ICP FEES | 122.00 | 0.00 ||
+| ELECTRONIC PAYMENT FEES | 4.57 | 0.23 ||
+| Total ||| AED 356.20 |
+
+### Stage 6B: Change status of dependent
+Perform a _Change Status_ using process `RESIDENCY - ALL RESIDENCE TYPES - CHANGE STATUS - CHANGE STATUS`
+
+| Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
+| ---------------- | ------------ | ------------------- | -------------- |
+| REQUEST FEES    | 500.00       | 0.00                |                |
+| E-SERVICES FEES | 28.00 | 1.40 ||
+| ICP FEES | 122.00 | 0.00 ||
+| ELECTRONIC PAYMENT FEES | 8.47 | 0.42 ||
+| Total ||| AED 660.29 |
+
+### Stage 6C: Change residency of dependent
+Complete their residency issuance using process `RESIDENCY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. This means a medical test for those who are aged 18 and over.
+
+| Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
+| ---------------- | ------------ | ------------------- | -------------- |
+| REQUEST FEES    | 100.00       | 0.00                |                |
+| ISSUE FEES | 1000.00 | 0.00 ||
+| E-SERVICES FEES | 28.00 | 1.40 ||
+| ICP FEES | 122.00 | 0.00 ||
+| ELECTRONIC PAYMENT FEES | 16.27 | 0.81 ||
+| Total (excluding medical exam) ||| AED 1,268.48 |
+
+The medical exam is usually AED 360.
+
+### Stage 6D: Residency and Identity Issuance of dependent
+The dependent needs to have an EID issued using process `RESIDENCE AND IDENTITY - FAMILY MEMBERS OF GOLDEN RESIDENCY SPONSOR - PERSONS WHO ARE TALENTED PIONEERS - RESIDENCY AND IDENTITY ISSUANCE`.
+
+| Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
+| ---------------- | ------------ | ------------------- | -------------- |
+| CARD ISSUANCE    | 1000.00       | 0.00                |                |
+| ELECTRONIC PAYMENT FEES | 14.30 | 0.72 ||
+| Smart Services Fee | 100.00 | 0.00 ||
+| Total ||| AED 1,115.02 |
 
 > [!NOTE]
 > Each process (with the exception of _Change Status_) is a special process that contains the word _GOLDEN_. **Do NOT use the non-golden process.**
