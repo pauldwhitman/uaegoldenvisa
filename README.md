@@ -1,4 +1,4 @@
-![image](https://github.com/pauldwhitman/uaegoldenvisa/assets/2204162/3f7cbdbc-a2e1-4868-920e-2f5aa24e33f4)# Guide to getting the UAE Golden Visa (for residents)
+# Guide to getting the UAE Golden Visa (for residents)
 _Version 1.1_
 
 This guide explains how to get a Golden Visa (GV) for people who are already residents of the UAE (any emirate). It explains the various stages, what information to submit, and how to sponsor your family.
