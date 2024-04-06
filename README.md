@@ -1,5 +1,11 @@
 # Guide to getting the UAE Golden Visa (for residents)
+_Version 1.1_
+
 This guide explains how to get a Golden Visa (GV) for people who are already residents of the UAE (any emirate). It explains the various stages, what information to submit, and how to sponsor your family.
+
+### Update history
+1.1 - Corrected pricing for stage 4, added summary table.
+1.0 - Initial release
 
 ### Not already a UAE resident?
 This guide contains useful elements, but it's not specifically designed for your needs.
@@ -17,6 +23,23 @@ In this document, the acronyms FAIC, ICA, and UAEICP will be used interchangably
 |ICP|Another name for FAIC.|
 |PRO|Public Relations Officer. PROs are private sector government liaison and can make your life easier. PROs know the processes back to front, and know who to call when things aren't clear. They are highly recommended but charge a fee.|
 |UAEICP|Another name for the FAIC.|
+
+# What's the total cost?
+
+For 1 person, the government fees are as follows:
+| Fees Description | Amount (AED) |
+| ---------------- | ------------ |
+| **Stage 1.** Get GV nomination     | Free       |
+| **Stage 2.** Apply for GV |AED 354.57 |
+| **Stage 3.** Change status | AED 658.47 |
+| **Stage 4.** Issue residence | AED 1,268.48 |
+| **Stage 4.** Examination of Medical Fitness for Residency Visa ("medical test") | AED 360.00 |
+| **Stage 5.** Residency and Identity Issuance | AED 1,115.02 |
+| Total | AED 3,756.54|
+
+* Fees are subject to change.
+* If you choose urgent fees for the medical test, the cost will be higher.
+* Excludes cost of PRO.
 
 # Process
 
@@ -216,7 +239,7 @@ There are only 2 stages: _Submitted_ and _Approved_. Here is a screenshot of a s
 | Total ||| 658.47 AED |
 
 ## Stage 4: Issue Residence
-You are now in the country using a temporary _Entry Permit (EP)_. The EP is a visa with 60 days validity which gives you enough time to finalise your residency status which includes a medical test. Once you ahve completed the medical test, you can begin the residency issue process which is formally known as `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. At the successful completion of this stage, you will receive your GV with 10 years validity!
+You are now in the country using a temporary _Entry Permit (EP)_. The EP is a visa with 60 days validity which gives you enough time to finalise your residency status which includes a medical test. Once you've completed the medical test, you can begin the residency issue process which is formally known as `RESIDENCY - Golden Residence - PERSONS WHO ARE TALENTED PIONEERS - ISSUE RESIDENCE`. At the successful completion of this stage, you will receive your GV with 10 years validity!
 
 ### How do I book a medical test?
 This needs to be performed through [Emirates Health Service (EHS)](https://www.ehs.gov.ae/) using their [Examination of Medical Fitness for Residency Visa](https://www.ehs.gov.ae/en/services/services-directory/examination-of-medical-fitness-for-residency-visa) process. It's important you use EHS because they will upload the results of your medical test directly to ICA.
@@ -270,10 +293,12 @@ Befor
 ### Cost
 | Fees Description | Amount (AED) | VAT Amount (AED) 5% | Total with VAT |
 | ---------------- | ------------ | ------------------- | -------------- |
-| CARD ISSUANCE    | 1,000.00       | 0.00                |                |
-| ELECTRONIC PAYMENT FEES | 14.30 | 0.72 ||
-| Smart Services Fee | 100.00 | 1.40 ||
-| Total ||| 1,115.02 AED |
+| REQUEST FEES    | 100.00       | 0.00                |                |
+| ISSUE FEES | 1000.00 | 0.00 ||
+| E-SERVICES FEES | 28.00 | 1.40 ||
+| ICP FEES | 122.00 | 0.00 ||
+| ELECTRONIC PAYMENT FEES | 16.27 | 0.81 ||
+| Total ||| AED 1,268.48 |
 
 
 ## Stage 5: Residency and Identity Issuance
@@ -289,7 +314,7 @@ If you want to check status of the EID, enter the _Application No_ into the [sta
 | CARD ISSUANCE    | 1000.00       | 0.00                |                |
 | ELECTRONIC PAYMENT FEES | 14.30 | 0.72 ||
 | Smart Services Fee | 100.00 | 0.00 ||
-| Total ||| 1,115.02 AED |
+| Total ||| AED 1,115.02 |
 
 
 ## Stage 6: Applying for GV for your family
