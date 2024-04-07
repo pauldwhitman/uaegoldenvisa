@@ -5,6 +5,7 @@ This guide explains how to get a Golden Visa (GV) for people who are already res
 
 ### Update history
 1.1 - Corrected pricing for stage 4, added summary table.
+
 1.0 - Initial release
 
 ### Not already a UAE resident?
